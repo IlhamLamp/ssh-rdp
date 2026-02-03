@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1770109232880_7d09bb2c5ac07",
+    "name": "RDP - 192.168.1.1",
+    "kind": "rdp",
+    "host": "192.168.1.1",
+    "rdpUsername": "admin",
+    "rdpFullscreen": true,
+    "rdpAdmin": false,
+    "password": "admin",
+    "note": "",
+    "createdAt": "2026-02-03T09:00:32.880Z",
+    "updatedAt": "2026-02-03T09:01:38.005Z"
+  }
+]

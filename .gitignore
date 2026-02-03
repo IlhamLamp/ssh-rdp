@@ -19,6 +19,7 @@
 
 # production
 /build
+/data/server.json
 
 # misc
 .DS_Store
